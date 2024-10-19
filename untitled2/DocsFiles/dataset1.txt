@@ -1,0 +1,110 @@
+meet, 4, doc1, doc10, doc4, doc9
+play, 10, doc108, doc113, doc128, doc137, doc45, doc47, doc50, doc54, doc71, doc80
+soccer, 6, doc119, doc132, doc142, doc148, doc7, doc93
+run, 7, doc111, doc150, doc19, doc24, doc89, doc9, doc96
+code, 1, doc5
+teach, 6, doc126, doc132, doc35, doc51, doc56, doc92
+learn, 3, doc2, doc45, doc83
+spark, 9, doc10, doc109, doc116, doc127, doc132, doc45, doc59, doc71, doc79
+read, 1, doc98
+write, 10, doc102, doc108, doc127, doc35, doc44, doc53, doc64, doc74, doc80, doc88
+word0, 5, doc135, doc148, doc41, doc52, doc58
+word1, 5, doc119, doc144, doc44, doc59, doc77
+word2, 9, doc100, doc110, doc122, doc127, doc135, doc20, doc26, doc37, doc79
+word3, 10, doc111, doc150, doc17, doc21, doc36, doc38, doc43, doc53, doc96, doc99
+word4, 3, doc121, doc21, doc89
+word5, 7, doc102, doc109, doc121, doc125, doc127, doc18, doc54
+word6, 8, doc140, doc20, doc36, doc43, doc45, doc74, doc87, doc91
+word7, 7, doc130, doc131, doc135, doc27, doc34, doc67, doc90
+word8, 8, doc114, doc116, doc16, doc21, doc26, doc46, doc56, doc90
+word9, 3, doc113, doc14, doc144
+word10, 8, doc105, doc124, doc146, doc16, doc29, doc49, doc80, doc99
+word11, 7, doc113, doc15, doc45, doc58, doc8, doc9, doc92
+word12, 6, doc124, doc148, doc2, doc3, doc40, doc8
+word13, 8, doc110, doc117, doc37, doc52, doc56, doc62, doc67, doc76
+word14, 10, doc125, doc131, doc143, doc25, doc34, doc63, doc64, doc67, doc72, doc86
+word15, 1, doc38
+word16, 8, doc109, doc113, doc134, doc136, doc138, doc142, doc145, doc49
+word17, 9, doc1, doc100, doc102, doc13, doc146, doc28, doc53, doc64, doc7
+word18, 10, doc105, doc129, doc138, doc2, doc23, doc46, doc69, doc81, doc85, doc97
+word19, 10, doc100, doc114, doc121, doc147, doc26, doc35, doc40, doc53, doc54, doc6
+word20, 2, doc138, doc90
+word21, 4, doc125, doc52, doc68, doc82
+word22, 5, doc104, doc126, doc38, doc56, doc80
+word23, 3, doc47, doc55, doc86
+word24, 9, doc10, doc112, doc122, doc141, doc26, doc4, doc52, doc71, doc87
+word25, 9, doc115, doc126, doc25, doc34, doc50, doc57, doc71, doc81, doc89
+word26, 7, doc109, doc129, doc130, doc145, doc17, doc71, doc85
+word27, 8, doc125, doc14, doc142, doc41, doc55, doc66, doc8, doc95
+word28, 8, doc114, doc123, doc147, doc40, doc60, doc61, doc74, doc81
+word29, 4, doc138, doc61, doc63, doc78
+word30, 4, doc100, doc126, doc55, doc64
+word31, 4, doc110, doc115, doc140, doc45
+word32, 2, doc118, doc137
+word33, 2, doc121, doc88
+word34, 2, doc141, doc26
+word35, 4, doc60, doc68, doc85, doc93
+word36, 8, doc11, doc134, doc47, doc81, doc82, doc83, doc95, doc97
+word37, 2, doc52, doc91
+word38, 9, doc101, doc135, doc34, doc36, doc39, doc4, doc51, doc62, doc79
+word39, 8, doc117, doc127, doc131, doc137, doc138, doc45, doc53, doc78
+word40, 8, doc108, doc109, doc125, doc134, doc144, doc25, doc28, doc34
+word41, 3, doc23, doc27, doc78
+word42, 9, doc113, doc139, doc145, doc2, doc33, doc50, doc68, doc71, doc91
+word43, 2, doc116, doc149
+word44, 8, doc127, doc138, doc139, doc21, doc30, doc38, doc56, doc95
+word45, 5, doc103, doc20, doc41, doc83, doc92
+word46, 2, doc110, doc124
+word47, 3, doc18, doc39, doc91
+word48, 1, doc115
+word49, 1, doc75
+word50, 7, doc107, doc120, doc129, doc134, doc136, doc71, doc74
+word51, 3, doc102, doc46, doc8
+word52, 4, doc104, doc12, doc59, doc69
+word53, 5, doc106, doc113, doc134, doc27, doc71
+word54, 9, doc1, doc111, doc20, doc22, doc35, doc36, doc5, doc76, doc93
+word55, 4, doc127, doc46, doc48, doc53
+word56, 6, doc120, doc136, doc146, doc39, doc53, doc77
+word57, 5, doc115, doc38, doc4, doc73, doc84
+word58, 1, doc15
+word59, 9, doc131, doc135, doc29, doc41, doc48, doc52, doc59, doc8, doc86
+word60, 3, doc121, doc40, doc84
+word61, 2, doc1, doc85
+word62, 2, doc77, doc91
+word63, 3, doc104, doc130, doc133
+word64, 7, doc109, doc123, doc18, doc45, doc58, doc66, doc7
+word65, 3, doc104, doc53, doc70
+word66, 2, doc123, doc89
+word67, 7, doc101, doc138, doc30, doc4, doc41, doc58, doc59
+word68, 8, doc100, doc101, doc131, doc149, doc26, doc56, doc64, doc93
+word69, 9, doc110, doc115, doc117, doc122, doc131, doc141, doc23, doc54, doc92
+word70, 2, doc130, doc26
+word71, 5, doc132, doc4, doc45, doc48, doc94
+word72, 6, doc23, doc39, doc43, doc58, doc61, doc67
+word73, 4, doc28, doc62, doc71, doc80
+word74, 6, doc131, doc139, doc18, doc20, doc29, doc80
+word75, 9, doc102, doc110, doc12, doc19, doc37, doc63, doc75, doc8, doc96
+word76, 10, doc11, doc24, doc26, doc37, doc4, doc59, doc6, doc62, doc68, doc96
+word77, 8, doc105, doc120, doc125, doc126, doc127, doc18, doc52, doc99
+word78, 5, doc125, doc134, doc22, doc54, doc94
+word79, 3, doc129, doc65, doc93
+word80, 10, doc1, doc107, doc117, doc118, doc33, doc45, doc49, doc50, doc60, doc71
+word81, 4, doc103, doc47, doc74, doc95
+word82, 8, doc104, doc124, doc131, doc139, doc148, doc28, doc54, doc99
+word83, 1, doc106
+word84, 8, doc1, doc125, doc140, doc144, doc20, doc39, doc74, doc78
+word85, 7, doc103, doc109, doc38, doc41, doc64, doc77, doc98
+word86, 9, doc109, doc111, doc143, doc36, doc37, doc4, doc43, doc80, doc94
+word87, 8, doc124, doc127, doc130, doc142, doc149, doc63, doc82, doc88
+word88, 4, doc105, doc116, doc88, doc99
+word89, 8, doc128, doc13, doc145, doc150, doc20, doc27, doc37, doc53
+word90, 8, doc101, doc102, doc107, doc113, doc4, doc49, doc57, doc77
+word91, 1, doc73
+word92, 9, doc106, doc111, doc122, doc131, doc33, doc4, doc57, doc67, doc72
+word93, 1, doc47
+word94, 4, doc101, doc16, doc67, doc80
+word95, 2, doc69, doc80
+word96, 8, doc107, doc111, doc127, doc15, doc19, doc22, doc43, doc57
+word97, 4, doc100, doc11, doc4, doc56
+word98, 6, doc101, doc58, doc66, doc86, doc87, doc91
+word99, 9, doc104, doc13, doc134, doc136, doc140, doc34, doc35, doc58, doc79
